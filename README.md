@@ -1,6 +1,3 @@
-# Internship-Tasks
-Worked on Python mini projects including a Password Generator and To-Do List.
-
 
 # Password Generator
 This is a basic Python-based password generator that produces secure and strong passwords according to the length selected by the user. It helps create random passwords for better security.
