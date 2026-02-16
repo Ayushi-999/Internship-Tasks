@@ -1,4 +1,5 @@
 # Internship-Tasks
+Worked on Python mini projects including a Password Generator and To-Do List.
 
 
 # Password Generator
